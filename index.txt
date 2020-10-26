@@ -1,6 +1,10 @@
 <head>
 first
 
+<<<<<<< HEAD
 
+=======
+second
+>>>>>>> third
 
 </head>
